@@ -1,0 +1,19 @@
+{
+  "name": "annotations",
+  "version": "1.2.9",
+  "description": "Plugin that add annotations to Highcharts library. Advanced demo is available on the github: http://blacklabel.github.io/annotations/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacklabel/annotations.git"
+  },
+  "author": "Black Label",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blacklabel/annotations/issues"
+  },
+  "homepage": "https://github.com/blacklabel/annotations#readme"
+}
