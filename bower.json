@@ -5,6 +5,9 @@
   "authors": [
     "Black Label"
   ],
+  "dependencies": {
+    "highcharts": "3.0.7+"
+  },
   "license": "MIT",
   "homepage": "http://blacklabel.github.io/annotations/"
 }
